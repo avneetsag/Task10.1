@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task10.1Final</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="my_list">My List</string>
+    <string name="discover_free_food">Discover free food</string>
+</resources>
